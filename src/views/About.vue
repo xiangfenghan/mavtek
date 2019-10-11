@@ -60,7 +60,7 @@
         }
     }
 
-    .skewBg{
+    .skewBg {
         position: absolute;
         top: 800px;
         right: 0;
@@ -70,25 +70,7 @@
         background: #ffbb00;
         transform: skew(0deg, -10deg);
         z-index: 0;
-         
-  
-//   .content{
-//     transform: skew(0deg, 10deg);
-//     text-align: center;
-    
-//     .title{
-//       padding-top: 100px;
-//       font-weight: normal;
-//     }
-    
-//     .text{
-//       width:60%;
-//       margin: 25px auto;      
-//       color: lighten(#ff00ff, 10%);
-//     }
-    
-//   } 
-}
+    }
 
 </style>
 
